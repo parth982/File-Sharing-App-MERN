@@ -11,7 +11,17 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "zod": "^3.21.4",
+    "axios": "^1.4.0",
+    "zustand": "^4.4.1",
+    "@chakra-ui/icons": "^2.1.0",
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "react-hook-form": "^7.45.4",
+    "react-router-dom": "^6.15.0",
+    "@hookform/resolvers": "^3.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
